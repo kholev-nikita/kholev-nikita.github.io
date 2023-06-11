@@ -1,2 +1,1 @@
-# kholev-nikita.github.io
-Site 2
+Практическая 1 - https://kholev-nikita.github.io/
