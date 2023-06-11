@@ -1,1 +1,1 @@
-Практическая 1 - https://kholev-nikita.github.io/
+Практическая 2 - https://kholev-nikita.github.io/index.html
